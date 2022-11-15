@@ -1,0 +1,15 @@
+{
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2022-11-09 22:01:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-09 22:01:11 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
